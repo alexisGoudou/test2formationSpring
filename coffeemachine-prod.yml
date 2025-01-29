@@ -22,6 +22,7 @@ account:
   details:
     name : "ok"
     info : "test"
+    mail : "{cypher}0eae0fdd8796be3dcac25889423b16d56794a30ebdee4c3c4c136398a9716fe7"
   phone:
   - "010230306"
 
