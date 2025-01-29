@@ -1,0 +1,16 @@
+spring:
+  application:
+    name: coffeemachine
+
+build:
+  version: 2.0
+
+account: 
+  message: "Wellcome qa"
+  details:
+    name : "ok"
+    info : "test"
+  phone:
+  - "010230306"
+
+
