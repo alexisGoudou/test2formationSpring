@@ -1,6 +1,8 @@
 spring:
   application:
     name: coffeemachine
+  profile:
+    active: prod
 
 build:
   version: 3.0
